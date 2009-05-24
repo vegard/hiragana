@@ -1,0 +1,138 @@
+span.a:before { content: '\003042'; }
+span.i:before { content: '\003044'; }
+span.u:before { content: '\003046'; }
+span.e:before { content: '\003048'; }
+span.o:before { content: '\00304a'; }
+
+span.ka:before { content: '\00304b'; }
+span.ki:before { content: '\00304d'; }
+span.ku:before { content: '\00304f'; }
+span.ke:before { content: '\003051'; }
+span.ko:before { content: '\003053'; }
+
+span.sa:before { content: '\003055'; }
+span.shi:before { content: '\003057'; }
+span.su:before { content: '\003059'; }
+span.se:before { content: '\00305b'; }
+span.so:before { content: '\00305d'; }
+
+span.ta:before { content: '\00305f'; }
+span.chi:before { content: '\003061'; }
+span.tsu:before { content: '\003064'; }
+span.te:before { content: '\003066'; }
+span.to:before { content: '\003068'; }
+
+span.na:before { content: '\00306a'; }
+span.ni:before { content: '\00306b'; }
+span.nu:before { content: '\00306c'; }
+span.ne:before { content: '\00306d'; }
+span.no:before { content: '\00306e'; }
+
+span.ha:before { content: '\00306f'; }
+span.hi:before { content: '\003072'; }
+span.fu:before { content: '\003075'; }
+span.he:before { content: '\003078'; }
+span.ho:before { content: '\00307b'; }
+
+span.ma:before { content: '\00307e'; }
+span.mi:before { content: '\00307f'; }
+span.mu:before { content: '\003080'; }
+span.me:before { content: '\003081'; }
+span.mo:before { content: '\003082'; }
+
+span.ya:before { content: '\003084'; }
+span.yu:before { content: '\003086'; }
+span.yo:before { content: '\003088'; }
+
+span.ra:before { content: '\003089'; }
+span.ri:before { content: '\00308a'; }
+span.ru:before { content: '\00308b'; }
+span.re:before { content: '\00308c'; }
+span.ro:before { content: '\00308d'; }
+
+span.n:before { content: '\003093'; }
+
+span.wa:before { content: '\00308f'; }
+span.wi:before { content: '\003090'; }
+span.we:before { content: '\003091'; }
+span.wo:before { content: '\003092'; }
+
+span.ga:before { content: '\00304c'; }
+span.gi:before { content: '\00304e'; }
+span.gu:before { content: '\003050'; }
+span.ge:before { content: '\003052'; }
+span.go:before { content: '\003054'; }
+
+span.za:before { content: '\003056'; }
+span.ji:before { content: '\003058'; }
+span.zu:before { content: '\00305a'; }
+span.ze:before { content: '\00305c'; }
+span.zo:before { content: '\00305e'; }
+
+span.da:before { content: '\003060'; }
+span.di:before { content: '\003062'; }
+span.du:before { content: '\003065'; }
+span.de:before { content: '\003067'; }
+span.do:before { content: '\003069'; }
+
+span.ba:before { content: '\003070'; }
+span.bi:before { content: '\003073'; }
+span.bu:before { content: '\003076'; }
+span.be:before { content: '\003079'; }
+span.bo:before { content: '\00307c'; }
+
+span.pa:before { content: '\003071'; }
+span.pi:before { content: '\003074'; }
+span.pu:before { content: '\003077'; }
+span.pe:before { content: '\00307a'; }
+span.po:before { content: '\00307d'; }
+
+span.vu:before { content: '\003094'; }
+
+span.kya:before { content:'\00304d\003084'; }
+span.kyu:before { content:'\00304d\003086'; }
+span.kyo:before { content:'\00304d\003088'; }
+
+span.sha:before { content:'\003057\003084'; }
+span.shu:before { content:'\003057\003086'; }
+span.sho:before { content:'\003057\003088'; }
+
+span.cha:before { content:'\003061\003084'; }
+span.chu:before { content:'\003061\003086'; }
+span.cho:before { content:'\003061\003088'; }
+
+span.nya:before { content:'\00306b\003084'; }
+span.nyu:before { content:'\00306b\003086'; }
+span.nyo:before { content:'\00306b\003088'; }
+
+span.hya:before { content:'\003072\003084'; }
+span.hyu:before { content:'\003072\003086'; }
+span.hyo:before { content:'\003072\003088'; }
+
+span.mya:before { content:'\00307f\003084'; }
+span.myu:before { content:'\00307f\003086'; }
+span.myo:before { content:'\00307f\003088'; }
+
+span.rya:before { content:'\00308a\003084'; }
+span.ryu:before { content:'\00308a\003086'; }
+span.ryo:before { content:'\00308a\003088'; }
+
+span.gya:before { content:'\00304e\003084'; }
+span.gyu:before { content:'\00304e\003086'; }
+span.gyo:before { content:'\00304e\003088'; }
+
+span.ja:before { content:'\003058\003084'; }
+span.ju:before { content:'\003058\003086'; }
+span.jo:before { content:'\003058\003088'; }
+
+span.dya:before { content:'\003062\003084'; }
+span.dyu:before { content:'\003062\003086'; }
+span.dyo:before { content:'\003062\003088'; }
+
+span.bya:before { content:'\003073\003084'; }
+span.byu:before { content:'\003073\003086'; }
+span.byo:before { content:'\003073\003088'; }
+
+span.pya:before { content:'\003074\003084'; }
+span.pyu:before { content:'\003074\003086'; }
+span.pyo:before { content:'\003074\003088'; }

@@ -1,0 +1,129 @@
+body {
+	text-align: center;
+}
+
+h1 {
+	border-bottom: 1px solid black;
+}
+
+.column {
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: 0;
+	margin-bottom: 2em;
+	width: 30%;
+}
+
+table {
+	border: 1px solid black;
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0.5em;
+
+	width: 100%;
+	table-layout: fixed;
+	caption-side: bottom;
+}
+
+table th {
+	background: #ddd;
+}
+
+table td {
+	background: #eee;
+	height: 1em;
+}
+
+#right {
+	float: right;
+}
+
+#left {
+	float: left;
+}
+
+#left table {
+	border: 1px solid black;
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0.5em;
+
+	width: 100%;
+	table-layout: fixed;
+	caption-side: bottom;
+}
+
+#left table th {
+	background: #ddd;
+}
+
+#left table td {
+	background: #eee;
+}
+
+#right {
+	float: right;
+}
+
+#center {
+	margin-left: auto;
+	margin-right: auto;
+
+	width: 20em;
+}
+
+#display {
+	width: 20em;
+}
+
+#menu {
+	border: 1px solid black;
+}
+
+#menu ul {
+	display: block;
+
+	padding: 0;
+}
+
+#menu ul li {
+	display: inline;
+
+	padding: 0 1em;
+
+}
+
+#character-div {
+	border: 1px solid black;
+
+	text-align: center;
+	font-size: 100pt;
+}
+
+#input-div {
+	border: 1px solid black;
+
+	padding: 0;
+	margin: 0;
+
+	text-align: center;
+}
+
+#input {
+	display: block;
+
+	margin: auto;
+	text-align: center;
+	text-transform: uppercase;
+
+	width: 98%;
+	height: 100%;
+
+	font-size: 32pt;
+}
+
+#footer {
+	clear: both;
+}
