@@ -22,7 +22,7 @@ table {
 	margin-bottom: 0.5em;
 
 	width: 100%;
-	table-layout: fixed;
+	/* table-layout: fixed; */
 	caption-side: bottom;
 }
 
@@ -41,26 +41,6 @@ table td {
 
 #left {
 	float: left;
-}
-
-#left table {
-	border: 1px solid black;
-
-	margin-left: auto;
-	margin-right: auto;
-	margin-bottom: 0.5em;
-
-	width: 100%;
-	table-layout: fixed;
-	caption-side: bottom;
-}
-
-#left table th {
-	background: #ddd;
-}
-
-#left table td {
-	background: #eee;
 }
 
 #right {
