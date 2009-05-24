@@ -182,6 +182,9 @@ function init()
 	characterSpan = document.getElementById('character-span');
 	input = document.getElementById('input');
 
+	input.onkeydown = keyDown;
+	input.onkeyup = keyUp;
+
 	var checkboxes = document.forms['hiragana'].elements;
 	for (var i = 0; i < checkboxes.length; ++i) {
 		checkboxes[i].onclick = rebuild_pool;
@@ -199,3 +202,5 @@ function init()
 	selectAll();
 	input.focus();
 }
+
+window.onload = init;
